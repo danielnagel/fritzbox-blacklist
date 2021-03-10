@@ -1,5 +1,7 @@
 # fritzbox-blacklist
 
+> FritzBox Routers can __only__ blacklist up to __500 domains__. I am using [Pi Hole](https://pi-hole.net/), because of this constraint.
+
 Translates one of [StevenBlack/hosts](https://github.com/StevenBlack/hosts) file to a AVM FritzBox
 readable blacklist format.
 
